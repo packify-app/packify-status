@@ -22,17 +22,19 @@
     "url": "https://packify.app/api",
     "icon": "https://icons.duckduckgo.com/ip3/packify.app.ico",
     "slug": "packify-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 20,
-    "timeWeek": 57,
-    "timeMonth": 42,
+    "timeDay": 16,
+    "timeWeek": 52,
+    "timeMonth": 41,
     "timeYear": 42,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-04": 0
+    }
   }
 ]
