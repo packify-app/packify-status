@@ -4,7 +4,7 @@
     "url": "https://packify.app",
     "icon": "https://icons.duckduckgo.com/ip3/packify.app.ico",
     "slug": "packify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 194,
     "timeMonth": 243,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-19": 0
+    }
   },
   {
     "name": "Packify API",
     "url": "https://packify.app/api",
     "icon": "https://icons.duckduckgo.com/ip3/packify.app.ico",
     "slug": "packify-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 34,
     "timeYear": 41,
     "dailyMinutesDown": {
+      "2023-02-19": 0,
       "2023-01-05": 348,
       "2023-01-04": 205
     }
