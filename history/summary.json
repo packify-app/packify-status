@@ -6,9 +6,9 @@
     "slug": "packify",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
     "timeDay": 252,
@@ -16,7 +16,6 @@
     "timeMonth": 283,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2023-03-24": 6,
       "2023-02-19": 6
     }
   },
@@ -27,9 +26,9 @@
     "slug": "packify-api",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 41,
     "timeDay": 34,
@@ -37,7 +36,6 @@
     "timeMonth": 40,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2023-03-24": 14,
       "2023-02-19": 6,
       "2023-01-05": 348,
       "2023-01-04": 205
