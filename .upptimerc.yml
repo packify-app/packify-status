@@ -7,6 +7,9 @@ sites:
     url: https://packify.app
   - name: Packify API
     url: https://packify.app/api
+  - name: Packify Queue Latency
+    url: https://packify.app/api/queue-latency
+    __dangerous__body_down_if_text_missing: "OK"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
