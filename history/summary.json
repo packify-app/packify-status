@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
-    "timeDay": 326,
+    "timeDay": 181,
     "timeWeek": 212,
-    "timeMonth": 277,
+    "timeMonth": 273,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2023-02-19": 6
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 42,
-    "timeDay": 47,
+    "timeDay": 17,
     "timeWeek": 25,
-    "timeMonth": 40,
+    "timeMonth": 39,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2023-05-23": 28,
@@ -48,18 +48,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/packify.app.ico",
     "slug": "packify-queue-latency",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 39,
-    "timeDay": 53,
+    "timeDay": 38,
     "timeWeek": 38,
     "timeMonth": 39,
     "timeYear": 39,
     "dailyMinutesDown": {
-      "2023-06-24": 6,
       "2023-06-06": 38,
       "2023-06-02": 27
     }
