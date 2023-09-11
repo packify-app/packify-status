@@ -1,5 +1,5 @@
 # Change these first
-owner: mironov # Your GitHub organization or username, where this repository lives
+owner: packify-app # Your GitHub organization or username, where this repository lives
 repo: packify-status # The name of this repository
 
 sites:
