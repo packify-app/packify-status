@@ -1,7 +1,7 @@
 url: https://packify.app/api/queue-latency
-status: down
+status: up
 code: 200
 responseTime: 15
-lastUpdated: 2023-09-25T06:47:00.953Z
+lastUpdated: 2023-09-25T07:40:50.565Z
 startTime: 2023-06-02T03:15:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
