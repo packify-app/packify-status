@@ -1,7 +1,7 @@
 url: https://packify.app/api
-status: down
-code: 503
-responseTime: 62
-lastUpdated: 2024-06-28T22:26:59.058Z
+status: up
+code: 200
+responseTime: 17
+lastUpdated: 2024-06-28T22:43:46.150Z
 startTime: 2022-07-02T10:32:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
