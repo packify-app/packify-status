@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 333,
-    "timeWeek": 337,
-    "timeMonth": 626,
-    "timeYear": 328,
+    "timeDay": 194,
+    "timeWeek": 298,
+    "timeMonth": 616,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2024-06-28": 17
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 28,
-    "timeWeek": 43,
+    "timeDay": 13,
+    "timeWeek": 34,
     "timeMonth": 46,
-    "timeYear": 43,
+    "timeYear": 42,
     "dailyMinutesDown": {
       "2024-06-28": 17,
       "2023-11-19": 1
@@ -47,14 +47,14 @@
     "slug": "packify-queue-latency",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "88.23%",
+    "uptimeDay": "90.50%",
     "uptimeWeek": "98.32%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.92%",
     "time": 43,
-    "timeDay": 43,
-    "timeWeek": 47,
-    "timeMonth": 47,
+    "timeDay": 50,
+    "timeWeek": 41,
+    "timeMonth": 46,
     "timeYear": 43,
     "dailyMinutesDown": {
       "2024-09-10": 154,
